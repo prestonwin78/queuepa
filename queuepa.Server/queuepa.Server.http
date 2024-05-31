@@ -1,0 +1,6 @@
+@queuepa.Server_HostAddress = http://localhost:5064
+
+GET {{queuepa.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
